@@ -1,8 +1,10 @@
 #include <stdio.h>
 
+void print_name(char *name);
+
 int main()
 {
-    printf("Hello Sonshine!\n");
+    print_name("sally");
     return 0;
 }
 
