@@ -4,7 +4,7 @@ void print_name(char *name);
 
 int main()
 {
-    print_name("sally");
+    print_name("Bob");
     return 0;
 }
 
